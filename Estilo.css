@@ -1,0 +1,172 @@
+#menu ul {
+
+padding:0px;
+
+background-color: #000000b8;
+
+list-style:none;
+
+margin-bottom:20px;
+
+margin-top:1px;
+
+}
+
+ 
+
+#menu ul li {
+
+display: inline-block; 
+
+ 
+
+} 
+
+#menu ul li a {
+
+border:0.3em solid #000000;
+
+padding: 0 13px;
+
+display: inline-block;
+
+color: white;
+
+font-size:27.42px;
+
+text-decoration: underline;
+
+}
+
+ 
+
+#menu ul li a:hover {
+
+background-color:#D6D6D6;
+
+color: #12260b;
+
+ 
+
+}
+
+ 
+
+#principal{
+
+padding:40px;
+
+width:950px;
+
+margin:auto;
+
+background-color: #000000b8;
+
+color: white;
+
+
+ 
+
+}
+
+ 
+
+ 
+
+#principal p{
+
+text-align:justify;
+
+font-family:Arial Black;
+
+font-size:20px;
+
+text-align: center;
+
+
+}
+
+#principal img{
+
+height:280px;
+
+width:550px;
+
+padding-left:57px;
+
+padding-right:57px;
+
+text-align: center;
+
+padding-top: 18px;
+
+display: inline-block; 
+
+}
+
+#exemplo img{
+
+	height:400px;
+
+	width:550px;
+
+	padding:58px;
+
+	padding-bottom:10px;
+
+	text-align: center;
+
+	padding-top: 18px;
+
+	display: inline-grid;
+}
+
+
+
+body {
+
+	background-image: url(Imagem/fundo.jpg);
+
+	background-repeat: no-repeat;
+
+-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+
+
+}
+
+
+
+
+p{
+
+	text-align: center;
+
+
+}
+
+a{
+
+	color: white;
+
+	text-decoration: none;
+
+	
+}
+
+#links {
+
+	line-height: 69px;
+
+	text-align: center;
+   
+   color: black;
+
+   text-decoration: underline;
+
+
+
+}
